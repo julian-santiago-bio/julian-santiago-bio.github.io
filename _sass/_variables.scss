@@ -16,8 +16,8 @@ $lightGray: #eee;
 $white: white;
 
 // Font stacks
-$alice: "Radio Canada", Tahoma, Arial, sans-serif;
-$radiocan: Alice, Georgia, serif;
+$alice: Alice, Georgia, serif;
+$radiocan: "Radio Canada", Tahoma, Arial, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
