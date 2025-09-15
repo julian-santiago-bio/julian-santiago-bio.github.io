@@ -8,20 +8,6 @@ title: Outreach
 
 - **Santiago J**, Álvarez Praino V. (2024) The journey of the cauquenes: Great adventurers from Tierra del Fuego. La Lupa 24, 16-21, 2796-7360. [Read online](https://revistalalupa.org/el-viaje-de-los-cauquenes/) or [read in PDF](https://www.researchgate.net/publication/389209576_La_Lupa_N_24) [Spanish]
 
-## Videos
-
-### Video series "Equipment for Scientific Drawing" (2025)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=pRNkO5gawEmL5Lgs&amp;list=PL76xfdZAZ9VRTOiNoplcZk57i6E2cu_lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### _Cyttaria_, _Nothofagus_ & _Anastomyza_: A Story About Fungi, Insects and Trees (2025)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NXx88UT7Ssg?si=dPT5caFR6gFW8wvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Axelrod's Model: Physics, Enviroment & Society (2021)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MhlSdkAc1Jk?si=XWlh7lGptek1IWHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Interactive experiences
 
 - **Biology Week, University of Buenos Aires - Faculty event aimed at secondary schools (2025 - 2023)** Co-presented twice the marine biology workshop ”Discovering the Sea Floor”. For the 2025 edition, designed the original workshop “Scientific Drawing: From Ink to Pixels”.
