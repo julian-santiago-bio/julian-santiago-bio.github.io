@@ -10,15 +10,15 @@ title: Outreach
 
 ## Videos
 
-### Video series "Equipment for Scientific Drawing" (2025) [Watch online](https://www.youtube.com/playlist?list=PL76xfdZAZ9VRTOiNoplcZk57i6E2cu_lQ) [Spanish]
+### Video series "Equipment for Scientific Drawing" (2025)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=pRNkO5gawEmL5Lgs&amp;list=PL76xfdZAZ9VRTOiNoplcZk57i6E2cu_lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### _Cyttaria_, _Nothofagus_ & _Anastomyza_: A Story About Fungi, Insects and Trees (2025) [Watch online](https://www.youtube.com/watch?v=NXx88UT7Ssg&list=PL76xfdZAZ9VTIWQLqO_iWei0BlogGbRP3&index=2) [Spanish]
+### _Cyttaria_, _Nothofagus_ & _Anastomyza_: A Story About Fungi, Insects and Trees (2025)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NXx88UT7Ssg?si=dPT5caFR6gFW8wvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Axelrod's Model: Physics, Enviroment & Society (2021) [Watch online](https://www.youtube.com/watch?v=MhlSdkAc1Jk&list=PL76xfdZAZ9VTIWQLqO_iWei0BlogGbRP3) [Spanish]
+### Axelrod's Model: Physics, Enviroment & Society (2021)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhlSdkAc1Jk?si=XWlh7lGptek1IWHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
