@@ -14,5 +14,6 @@ On this site, you can find my [academic publications](/publications), as well as
 ## My links
 - [ResearchGate](https://www.researchgate.net/profile/Julian-Santiago-10)
 - [ORCID](https://orcid.org/0009-0000-9502-4387)
+- [Request full CV](mailto:juliansantiago.uba@gmail.com)
 
 ![Separator](/images/isopod_separator.png "(c) Julián Santiago 2025")
