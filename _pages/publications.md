@@ -12,7 +12,7 @@ permalink: publications
 
 - **Santiago J**. Pages from a never-ending story: The importance of taxonomy in caring for our environments. 2nd Environmental Conference of the University of Buenos Aires. Jun 5 2025. [Spanish]
 
-- **Santiago J**. The genus Edotia (Crustacea: Isopoda) in the waters of Argentina and Uruguay. Conf. with Research Fellows: Present and Future of Science, University of Buenos Aires. Apr 25 2025. [Spanish]
+- **Santiago J**. The genus _Edotia_ (Crustacea: Isopoda) in the waters of Argentina and Uruguay. Conf. with Research Fellows: Present and Future of Science, University of Buenos Aires. Apr 25 2025. [Spanish]
 
 ## Congress posters
 
