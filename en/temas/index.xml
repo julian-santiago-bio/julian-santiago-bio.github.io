@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Temas on Julián Santiago</title>
-    <link>https://julian-santiago-bio.github.io/en/temas/</link>
+    <link>https://julian.papirolas.com.ar/en/temas/</link>
     <description>Recent content in Temas on Julián Santiago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(c) Julián Santiago. All rights reserved.</copyright>
-    <atom:link href="https://julian-santiago-bio.github.io/en/temas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://julian.papirolas.com.ar/en/temas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
