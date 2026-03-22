@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Div-Interactivo on Julián Santiago</title>
+    <link>https://julian.papirolas.com.ar/tags/div-interactivo/</link>
+    <description>Recent content in Div-Interactivo on Julián Santiago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>(c) Julián Santiago. Todos los derechos reservados.</copyright>
+    <atom:link href="https://julian.papirolas.com.ar/tags/div-interactivo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instrumental para el dibujo científico</title>
+      <link>https://julian.papirolas.com.ar/proyectos/instrumental-dibujo-dbbe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/instrumental-dibujo-dbbe/</guid>
+      <description>Videos documentales e imágenes de talleres abiertos al público. Artículo de comunicación pública en proceso.</description>
+    </item>
+    <item>
+      <title>Mar profundo: una aventura sumergida</title>
+      <link>https://julian.papirolas.com.ar/proyectos/sala-de-escape-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/sala-de-escape-2025/</guid>
+      <description>Sala de escape para público general presentada en la Noche de los Museos 2025 en el marco de la Facultad de Ciencias Exactas y Naturales de la UBA.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divulgacion on Julián Santiago</title>
+    <link>https://julian.papirolas.com.ar/tags/divulgacion/</link>
+    <description>Recent content in Divulgacion on Julián Santiago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>(c) Julián Santiago. Todos los derechos reservados.</copyright>
+    <atom:link href="https://julian.papirolas.com.ar/tags/divulgacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colección de Nápoles</title>
+      <link>https://julian.papirolas.com.ar/proyectos/coleccion-napoles-1912/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/coleccion-napoles-1912/</guid>
+      <description>Póster y artículo en proceso sobre una colección adquirida en la Estación Zoológica de Nápoles en 1912.</description>
+    </item>
+    <item>
+      <title>Cyttaria, Nothofagus y Anastomyza</title>
+      <link>https://julian.papirolas.com.ar/proyectos/cyttaria-nothofagus-anastomyza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/cyttaria-nothofagus-anastomyza/</guid>
+      <description>Breve película documental realizada en 2025 en el marco de la asignatura Introducción a los Hongos de la carrera de Ciencias Biológicas de la Universidad de Buenos Aires.</description>
+    </item>
+    <item>
+      <title>El Modelo de Axelrod: Física, ambiente y sociedad</title>
+      <link>https://julian.papirolas.com.ar/proyectos/docu-modelo-axelrod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/docu-modelo-axelrod/</guid>
+      <description>Breve película documental realizada en 2022. Incluye entrevista al Dr. Pablo Balenzuela, físico de la FCEyN, UBA.</description>
+    </item>
+    <item>
+      <title>El viaje de los cauquenes</title>
+      <link>https://julian.papirolas.com.ar/proyectos/viaje-de-los-cauquenes-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/viaje-de-los-cauquenes-2024/</guid>
+      <description>Artículo de divulgación publicado en la revista Colección La Lupa (CADIC) en septiembre de 2024. Autores: Julián Santiago y Valentina Álvarez Praino</description>
+    </item>
+    <item>
+      <title>Instrumental para el dibujo científico</title>
+      <link>https://julian.papirolas.com.ar/proyectos/instrumental-dibujo-dbbe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/instrumental-dibujo-dbbe/</guid>
+      <description>Videos documentales e imágenes de talleres abiertos al público. Artículo de comunicación pública en proceso.</description>
+    </item>
+    <item>
+      <title>Mar profundo: una aventura sumergida</title>
+      <link>https://julian.papirolas.com.ar/proyectos/sala-de-escape-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian.papirolas.com.ar/proyectos/sala-de-escape-2025/</guid>
+      <description>Sala de escape para público general presentada en la Noche de los Museos 2025 en el marco de la Facultad de Ciencias Exactas y Naturales de la UBA.</description>
+    </item>
+  </channel>
+</rss>

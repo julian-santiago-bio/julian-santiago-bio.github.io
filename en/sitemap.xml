@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://julian.papirolas.com.ar/en/areas/</loc>
+    <loc>https://julian.papirolas.com.ar/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://julian.papirolas.com.ar/areas/"
+                href="https://julian.papirolas.com.ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julian.papirolas.com.ar/en/areas/"
+                href="https://julian.papirolas.com.ar/en/categories/"
                 />
   </url><url>
     <loc>https://julian.papirolas.com.ar/en/cv/</loc>
@@ -38,18 +38,6 @@
                 href="https://julian.papirolas.com.ar/en/"
                 />
   </url><url>
-    <loc>https://julian.papirolas.com.ar/en/lineas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://julian.papirolas.com.ar/lineas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://julian.papirolas.com.ar/en/lineas/"
-                />
-  </url><url>
     <loc>https://julian.papirolas.com.ar/en/outreach/</loc>
     <xhtml:link
                 rel="alternate"
@@ -74,6 +62,18 @@
                 href="https://julian.papirolas.com.ar/en/research/"
                 />
   </url><url>
+    <loc>https://julian.papirolas.com.ar/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://julian.papirolas.com.ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://julian.papirolas.com.ar/en/tags/"
+                />
+  </url><url>
     <loc>https://julian.papirolas.com.ar/en/teaching/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,30 +84,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://julian.papirolas.com.ar/en/teaching/"
-                />
-  </url><url>
-    <loc>https://julian.papirolas.com.ar/en/temas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://julian.papirolas.com.ar/temas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://julian.papirolas.com.ar/en/temas/"
-                />
-  </url><url>
-    <loc>https://julian.papirolas.com.ar/en/tipos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://julian.papirolas.com.ar/tipos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://julian.papirolas.com.ar/en/tipos/"
                 />
   </url>
 </urlset>

@@ -10,16 +10,16 @@
   </url><url>
     <loc>https://julian.papirolas.com.ar/comunicacion/actividades-interactivas/</loc>
   </url><url>
-    <loc>https://julian.papirolas.com.ar/areas/</loc>
+    <loc>https://julian.papirolas.com.ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julian.papirolas.com.ar/en/areas/"
+                href="https://julian.papirolas.com.ar/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://julian.papirolas.com.ar/areas/"
+                href="https://julian.papirolas.com.ar/categories/"
                 />
   </url><url>
     <loc>https://julian.papirolas.com.ar/proyectos/coleccion-napoles-1912/</loc>
@@ -49,6 +49,18 @@
                 />
   </url><url>
     <loc>https://julian.papirolas.com.ar/proyectos/cyttaria-nothofagus-anastomyza/</loc>
+  </url><url>
+    <loc>https://julian.papirolas.com.ar/tags/div-historia-biologia/</loc>
+  </url><url>
+    <loc>https://julian.papirolas.com.ar/tags/div-historia-fcen/</loc>
+  </url><url>
+    <loc>https://julian.papirolas.com.ar/tags/div-interactivo/</loc>
+  </url><url>
+    <loc>https://julian.papirolas.com.ar/tags/div-miscelanea/</loc>
+  </url><url>
+    <loc>https://julian.papirolas.com.ar/tags/div-modelo-matematico/</loc>
+  </url><url>
+    <loc>https://julian.papirolas.com.ar/tags/divulgacion/</loc>
   </url><url>
     <loc>https://julian.papirolas.com.ar/docencia/</loc>
     <xhtml:link
@@ -80,17 +92,7 @@
   </url><url>
     <loc>https://julian.papirolas.com.ar/proyectos/instrumental-dibujo-dbbe/</loc>
   </url><url>
-    <loc>https://julian.papirolas.com.ar/lineas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://julian.papirolas.com.ar/en/lineas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://julian.papirolas.com.ar/lineas/"
-                />
+    <loc>https://julian.papirolas.com.ar/tags/investigacion/</loc>
   </url><url>
     <loc>https://julian.papirolas.com.ar/proyectos/sala-de-escape-2025/</loc>
   </url><url>
@@ -108,28 +110,16 @@
                 href="https://julian.papirolas.com.ar/investigacion/"
                 />
   </url><url>
-    <loc>https://julian.papirolas.com.ar/temas/</loc>
+    <loc>https://julian.papirolas.com.ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julian.papirolas.com.ar/en/temas/"
+                href="https://julian.papirolas.com.ar/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://julian.papirolas.com.ar/temas/"
-                />
-  </url><url>
-    <loc>https://julian.papirolas.com.ar/tipos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://julian.papirolas.com.ar/en/tipos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://julian.papirolas.com.ar/tipos/"
+                href="https://julian.papirolas.com.ar/tags/"
                 />
   </url>
 </urlset>
