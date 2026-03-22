@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temas on Julián Santiago</title>
+    <link>https://julian-santiago-bio.github.io/temas/</link>
+    <description>Recent content in Temas on Julián Santiago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>(c) Julián Santiago. Todos los derechos reservados.</copyright>
+    <atom:link href="https://julian-santiago-bio.github.io/temas/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

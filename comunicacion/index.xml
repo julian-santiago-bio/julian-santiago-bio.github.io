@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comunicación y extensión universitaria on Julián Santiago</title>
+    <link>https://julian-santiago-bio.github.io/comunicacion/</link>
+    <description>Recent content in Comunicación y extensión universitaria on Julián Santiago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>(c) Julián Santiago. Todos los derechos reservados.</copyright>
+    <atom:link href="https://julian-santiago-bio.github.io/comunicacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aspectos históricos de la biología en Argentina</title>
+      <link>https://julian-santiago-bio.github.io/comunicacion/historia-biologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian-santiago-bio.github.io/comunicacion/historia-biologia/</guid>
+      <description>Pósteres, artículos y talleres para el público general que intentan rescatar aspectos olvidados de las ciencias biológicas en el país.</description>
+    </item>
+    <item>
+      <title>Modelos matemáticos</title>
+      <link>https://julian-santiago-bio.github.io/comunicacion/modelos-matematicos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian-santiago-bio.github.io/comunicacion/modelos-matematicos/</guid>
+      <description>Artículos y videos explicando el desarrollo de modelos matemáticos aplicados sobre temas de física, biología y sociedad.</description>
+    </item>
+    <item>
+      <title>Otros artículos y videos</title>
+      <link>https://julian-santiago-bio.github.io/comunicacion/articulos-miscelaneos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian-santiago-bio.github.io/comunicacion/articulos-miscelaneos/</guid>
+      <description>Artículos y videos independientes vinculados con diferentes temáticas biológicas y ecológicas.</description>
+    </item>
+    <item>
+      <title>Actividades interactivas</title>
+      <link>https://julian-santiago-bio.github.io/comunicacion/actividades-interactivas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://julian-santiago-bio.github.io/comunicacion/actividades-interactivas/</guid>
+      <description>Salas de escape, juegos y talleres con temáticas biológicas presentados en eventos masivos.</description>
+    </item>
+  </channel>
+</rss>
