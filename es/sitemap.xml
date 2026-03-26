@@ -32,6 +32,18 @@
     <loc>https://julian.papirolas.com.ar/novedades/2026-03-16-tesis/</loc>
     <lastmod>2026-03-16T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>https://julian.papirolas.com.ar/investigacion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://julian.papirolas.com.ar/en/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://julian.papirolas.com.ar/investigacion/"
+                />
+  </url><url>
     <loc>https://julian.papirolas.com.ar/proyectos/coleccion-napoles-1912/</loc>
   </url><url>
     <loc>https://julian.papirolas.com.ar/comunicacion/</loc>
@@ -81,17 +93,5 @@
     <loc>https://julian.papirolas.com.ar/proyectos/sala-de-escape-2025/</loc>
   </url><url>
     <loc>https://julian.papirolas.com.ar/proyectos/</loc>
-  </url><url>
-    <loc>https://julian.papirolas.com.ar/investigacion/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://julian.papirolas.com.ar/en/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://julian.papirolas.com.ar/investigacion/"
-                />
   </url>
 </urlset>
